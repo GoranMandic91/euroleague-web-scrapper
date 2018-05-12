@@ -1,0 +1,12 @@
+{
+  "development": {
+    "database": {
+      "host": "localhost"
+    }
+  },
+  "production":{
+    "database": {
+      "host": "localhost"
+    }
+  }
+}
